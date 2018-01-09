@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/atineose
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://www.adriantineo.com
+  * I am atineose (https://keybase.io/atineose) on keybase.
+  * I have a public key ASCZSEkg2dF6HAgriGXbcNpOI5IuMxfgj2jEDRGOhZaFbQo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "012099484920d9d17a1c082b8865db70da4e23922e3317e08f68c40d118e8596856d0a",
+      "host": "keybase.io",
+      "kid": "012099484920d9d17a1c082b8865db70da4e23922e3317e08f68c40d118e8596856d0a",
+      "uid": "95471fa4eae49706cc0b8bacb44ca819",
+      "username": "atineose"
+    },
+    "merkle_root": {
+      "ctime": 1515530567,
+      "hash": "0cba926e3e1b37372e4ddb579b66bb4c953c99f757834836fbcdef84ca2bc2affdfa21d96ea9229a24f24ad297ba9f7ebccdc5e67859442a97810224442a4a77",
+      "hash_meta": "78951d5696e14de2ac983f0217186dfa695d1af6326ac39c80c0576757ed920f",
+      "seqno": 1907842
+    },
+    "service": {
+      "hostname": "www.adriantineo.com",
+      "protocol": "http:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "1.0.38"
+  },
+  "ctime": 1515530595,
+  "expire_in": 504576000,
+  "prev": "e3bcc232b96ecec08747d948d68528a710df1eaeb9c0e03a71e00a9cd239939e",
+  "seqno": 6,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgmUhJINnRehwIK4hl23DaTiOSLjMX4I9oxA0RjoWWhW0Kp3BheWxvYWTFA0p7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwOTk0ODQ5MjBkOWQxN2ExYzA4MmI4ODY1ZGI3MGRhNGUyMzkyMmUzMzE3ZTA4ZjY4YzQwZDExOGU4NTk2ODU2ZDBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwOTk0ODQ5MjBkOWQxN2ExYzA4MmI4ODY1ZGI3MGRhNGUyMzkyMmUzMzE3ZTA4ZjY4YzQwZDExOGU4NTk2ODU2ZDBhIiwidWlkIjoiOTU0NzFmYTRlYWU0OTcwNmNjMGI4YmFjYjQ0Y2E4MTkiLCJ1c2VybmFtZSI6ImF0aW5lb3NlIn0sIm1lcmtsZV9yb290Ijp7ImN0aW1lIjoxNTE1NTMwNTY3LCJoYXNoIjoiMGNiYTkyNmUzZTFiMzczNzJlNGRkYjU3OWI2NmJiNGM5NTNjOTlmNzU3ODM0ODM2ZmJjZGVmODRjYTJiYzJhZmZkZmEyMWQ5NmVhOTIyOWEyNGYyNGFkMjk3YmE5ZjdlYmNjZGM1ZTY3ODU5NDQyYTk3ODEwMjI0NDQyYTRhNzciLCJoYXNoX21ldGEiOiI3ODk1MWQ1Njk2ZTE0ZGUyYWM5ODNmMDIxNzE4NmRmYTY5NWQxYWY2MzI2YWMzOWM4MGMwNTc2NzU3ZWQ5MjBmIiwic2Vxbm8iOjE5MDc4NDJ9LCJzZXJ2aWNlIjp7Imhvc3RuYW1lIjoid3d3LmFkcmlhbnRpbmVvLmNvbSIsInByb3RvY29sIjoiaHR0cDoifSwidHlwZSI6IndlYl9zZXJ2aWNlX2JpbmRpbmciLCJ2ZXJzaW9uIjoxfSwiY2xpZW50Ijp7Im5hbWUiOiJrZXliYXNlLmlvIGdvIGNsaWVudCIsInZlcnNpb24iOiIxLjAuMzgifSwiY3RpbWUiOjE1MTU1MzA1OTUsImV4cGlyZV9pbiI6NTA0NTc2MDAwLCJwcmV2IjoiZTNiY2MyMzJiOTZlY2VjMDg3NDdkOTQ4ZDY4NTI4YTcxMGRmMWVhZWI5YzBlMDNhNzFlMDBhOWNkMjM5OTM5ZSIsInNlcW5vIjo2LCJ0YWciOiJzaWduYXR1cmUifaNzaWfEQG5cr4znplaSuxZ0ZexWuBkZNwVBrxs8m8hlAXfVUGa6haBdkAW5m3OqyqQaAkU8qzge8vBc1w3EqyqWlM2C6Aioc2lnX3R5cGUgpGhhc2iCpHR5cGUIpXZhbHVlxCAqoinWrUl0AR+DMq6Al882saZWBm6DAzZM9vwG0RIIUaN0YWfNAgKndmVyc2lvbgE=
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/atineose
+
+==================================================================
+
